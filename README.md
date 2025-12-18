@@ -1,4 +1,4 @@
-# Hi 👋, I'm Hitarth_87
+# Hi 👋, I'm Hitarth
 
 ### AI/ML Developer
 
@@ -24,4 +24,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hitarth8705&show_icons=true&locale=en" alt="hitarth8705" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hitarth8705&" alt="hitarth8705" /></p>
+
 
