@@ -1,6 +1,6 @@
-# Hi 👋, I'm Hitarth_87
+# Hi 👋, I'm Hitarth
 
-### A passionate Jupyter notebook developer
+### AI/ML Developer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hitarth8705&label=Profile views&color=0e75b6&style=flat" alt="hitarth8705" /> </p>
 
